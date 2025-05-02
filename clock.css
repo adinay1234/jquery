@@ -1,0 +1,34 @@
+.second {
+	position: absolute;
+      width: 4px;
+      height: 120px;
+      background-color: black;
+      top: 30px; 
+      left: 50%;
+}
+
+.minute {
+position: absolute;
+      width: 4px;
+      height: 120px;
+      background-color: black;
+      top: 30px; 
+      left: 50%;
+}
+
+.hour {
+position: absolute;
+      width: 4px;
+      height: 120px;
+      background-color: black;
+      top: 30px; 
+      left: 50%;
+}
+
+.clock {
+	position : absolute;
+	justify-content : center;
+	align-item : center;
+	right : 800px;
+	top  : 250px;
+}
